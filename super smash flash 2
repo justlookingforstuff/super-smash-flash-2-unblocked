@@ -1,0 +1,104 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Super Smash Flash 2 Beta - supersmashflash.com</title>
+    <style>
+        body { font-family: Arial, sans-serif; margin: 0; padding: 20px; background: #f0f0f0; color: #333; line-height: 1.6; }
+        .container { max-width: 1000px; margin: 0 auto; background: white; padding: 40px; border-radius: 10px; box-shadow: 0 0 20px rgba(0,0,0,0.1); }
+        h1 { color: #e74c3c; text-align: center; font-size: 2.5em; margin-bottom: 10px; }
+        .subtitle { text-align: center; font-size: 1.2em; margin-bottom: 30px; }
+        .bold { font-weight: bold; }
+        .faq { margin-top: 40px; }
+        .faq h2 { color: #2c3e50; border-bottom: 2px solid #e74c3c; padding-bottom: 10px; }
+        .faq-item { margin-bottom: 20px; }
+        .faq-item strong { color: #e74c3c; display: block; margin-bottom: 5px; }
+        .note { background: #fff3cd; padding: 15px; border-left: 5px solid #ffc107; margin: 20px 0; }
+        a { color: #e74c3c; text-decoration: none; }
+        a:hover { text-decoration: underline; }
+        ul { padding-left: 20px; }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Super Smash Flash 2 BETA</h1>
+        <p class="subtitle">The most popular Smash fangame on the internet has received its biggest update yet – 3 years in the making!</p>
+        <p>Are you ready to experience…</p>
+        <div class="note">
+            <strong>NOTE:</strong> This game is still very much a work in progress. If you’d like to assist with the development, please click <a href="#">here</a>.
+        </div>
+
+        <h2>…Super Smash what?</h2>
+        <p><strong>Super Smash Flash is back!</strong> You do remember us, right? The original Smash Bros fangame, most popular for content and difficulty, rather than gameplay, Super Smash Flash was…well, Super Smash in a Flash. It showed very few similarities to the actual Smash Bros gameplay as it was our first game, yet still somehow attracted large crowds of people. Now, with the knowledge we’ve picked up along the way, we’re striving for the utmost quality this time around. Super Smash Flash 2 is not a game made by one person in a month, like SSF1. Super Smash Flash 2 is a game made by... <strong>hundreds of people</strong> over <strong>several years</strong>. It will be one of the biggest Smash bros fan-games – no. <strong>One of the biggest Flash games</strong>, to date.</p>
+        <p><strong>We promise.</strong></p>
+
+        <h2>Is this actually made in Flash?</h2>
+        <p>– It is, and one of our major product goals here is to show that Flash is underestimated and underappreciated. If we can make a console-quality game with controller support, online mode, and 10 years worth of custom art, so can you. No other programming interface would allow us the kind of convenience and workflow that we have with Super Smash Flash 2 without custom tools. Flash is incredible for creating video games and animations with a low barrier to entry and an incredibly simple interface. (tl;dr stop calling for Flash to die, jerks)</p>
+
+        <div class="faq">
+            <h2>Frequently Asked Questions</h2>
+            <div class="faq-item">
+                <strong>Why does your game have a Wikipedia page?</strong>
+                <p>– I have no idea but we’re really excited about it.</p>
+            </div>
+            <div class="faq-item">
+                <strong>This isn’t listed on Twitch! Can I stream/watch SSF2 Beta live?</strong>
+                <p><strong>Unfortunately, Twitch does not list us as a game. We suggest using YouTube Gaming!</strong></p>
+            </div>
+            <div class="faq-item">
+                <strong>Do you have a Discord?</strong>
+                <p>… <strong>We do!</strong> Please note that invitations are not always open, so if the link doesn’t work please check back again later.</p>
+            </div>
+            <div class="faq-item">
+                <strong>Can I use my gamepad?</strong>
+                <p>– If your OS recognizes it, and you’ve got drivers… yes! Please note, at this time only the downloadable version of the game (to your right) supports gamepads due to shortfalls and discrepancies in support between the browsers.</p>
+            </div>
+            <div class="faq-item">
+                <strong>Where’s the best place to find matches?</strong>
+                <p>– Our partners over at <em>Anther’s Ladder</em> run an awesome chat with matchmaking built right in! Check it out <a href="#">here</a>.</p>
+            </div>
+            <div class="faq-item">
+                <strong>Can you add [insert character here]?</strong>
+                <p>– Unfortunately with a game of this scale, we need to plan things out ahead of time so that we can finish the game at some point. At this time we cannot accept content suggestions for this reason. Sorry!</p>
+            </div>
+            <div class="faq-item">
+                <strong>How can I support your development?</strong>
+                <p>– We are not accepting any monetary compensation on behalf of Super Smash Flash 2. The best way to support us is to keep playing. It’ll make us happy. Hopefully it’ll make you happy too.</p>
+            </div>
+            <div class="faq-item">
+                <strong>WHERE IS THE FULL VERSION?!</strong>
+                <p>– Super Smash Flash 2’s Beta release is our final full-featured update to our public release before the full game. We’re hard at work and well on our way, and we allow you to experience our progress along the way – that is the point of Super Smash Flash 2’s demos.</p>
+            </div>
+            <div class="faq-item">
+                <strong>Are there combos in Super Smash Flash 2?</strong>
+                <p>– Absolutely. Super Smash Flash 2 has low landing lag, high hitstun, and high gravity, leading to an exhilarating combo game with lots of mixups that will still feel right at home to those coming from any of the official Smash games – even ones where combos don’t exist. This is one of our major project goals.</p>
+            </div>
+            <div class="faq-item">
+                <strong>Which Smash game is SSF2 based off of?</strong>
+                <p>– Ah, I see you noticed that SSF1 was based off of Melee, huh. Well, think of SSF2 as a Frankenstein. We’re smashing together a “Greatest Hits” type deal with our engine, feel, and aesthetics, but we’re also taking our own creative liberties as well. There’s no definite answer to this question!</p>
+            </div>
+            <div class="faq-item">
+                <strong>Well, in terms of engine?</strong>
+                <p>– SSF2’s engine is Frankenstein’d too. At first glance, it’s very reminiscent of Smash 4, actually; some of the more obvious engine aspects will make that clear right away (with the low landing lag, high-ish hitstun, high gravity, etc.) But it goes deeper than that, and this will become more apparent as the game matures and we begin activating our other engine aspects.</p>
+            </div>
+            <div class="faq-item">
+                <strong>Do characters have complete movesets?</strong>
+                <p>– Absolutely. Some characters have placeholder animations at the moment, but they will all be remedied before the full release.</p>
+            </div>
+            <div class="faq-item">
+                <strong>Does this work on Mac/Linux?</strong>
+                <p>– SSF2 runs better on Mac than on most Windows computers, actually! As far as Linux, you can always play our game using Chrome until we get an executable finished up.</p>
+            </div>
+            <div class="faq-item">
+                <strong>Is online mode planned?</strong>
+                <p>– It’s in!! 🙂</p>
+            </div>
+            <div class="faq-item">
+                <strong>What about L-Cancelling or (insert some complicated Smash Bros-related acronym here)?</strong>
+                <p>– Probably not included. As far as L-cancelling though, SSF2 has globally reduced landlag (some call this ALR – Aerial Lag Reduction), and instead of being move-specific, it’s mostly character specific with a few exceptions, ranging from 3 to 12 frames (at 30 FPS). If we gave you L-cancelling, you probably wouldn’t need to use it often.</p>
+            </div>
+        </div>
+    </div>
+</body>
+</html>
